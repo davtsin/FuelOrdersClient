@@ -1,4 +1,4 @@
 # FuelOrdersClient
 GUI client for adding orders from gas stations to MySQL-database. Orders was maked in Moscow gas stations.
 
-- To create databse filled with example data use file src/main/resources/createDbWithData.sql
+- database creation scripts and model is in "src/main/resources" directory
